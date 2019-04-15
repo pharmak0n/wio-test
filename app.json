@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "wio-test",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
